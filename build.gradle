@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.7.10-alpha1.3.1"
-group= "com.jeffpeng.jmod.chisel" 
-archivesBaseName = "chisel"
+group= "com.jeffpeng.jmod.sync" 
+archivesBaseName = "sync"
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 

@@ -9,6 +9,12 @@
 :getVersionJson
 :extractUserDev UP-TO-DATE
 :genSrgs SKIPPED
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:mergeJars SKIPPED
+:applyBinPatches SKIPPED
+:downloadMcpTools SKIPPED
+:deobfBinJar SKIPPED
 :compileApiJava UP-TO-DATE
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
@@ -22,4 +28,4 @@
 
 BUILD SUCCESSFUL
 
-Total time: 6.425 secs
+Total time: 8.629 secs
