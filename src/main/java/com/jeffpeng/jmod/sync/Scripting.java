@@ -1,9 +1,9 @@
 package com.jeffpeng.jmod.sync;
 
 import com.jeffpeng.jmod.JMODRepresentation;
-import com.jeffpeng.jmod.primitives.OwnedObject;
+import com.jeffpeng.jmod.primitives.ModScriptObject;
 
-public class Scripting extends OwnedObject {
+public class Scripting extends ModScriptObject {
 	
 	public static boolean preventSyncRecipeReload = false;
 
