@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.10-1.4.0RC2"
+version = "1.7.10-1.4.0RC5"
 group= "com.jeffpeng.jmod.sync" 
 archivesBaseName = "sync"
 sourceCompatibility = 1.8
